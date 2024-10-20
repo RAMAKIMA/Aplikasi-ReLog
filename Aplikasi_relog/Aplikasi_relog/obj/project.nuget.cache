@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LA19Hcinz78=",
+  "success": true,
+  "projectFilePath": "C:\\VStudio\\Aplikasi_relog\\Aplikasi_relog\\Aplikasi_relog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RAMAKIMA\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\RAMAKIMA\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\RAMAKIMA\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
